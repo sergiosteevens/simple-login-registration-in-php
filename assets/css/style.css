@@ -5,11 +5,7 @@ body {
     padding: 0; 
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    /* background-image: linear-gradient(to top, #f34079 40%, #fc894d, #ecd3d3); */
-    /* background: url("https://wallpaperaccess.com/full/2008065.jpg"); */
-    
    
-/* //poner mejor fondo */
 }
 
 input[type="text"], input[type="password"]{
@@ -38,32 +34,27 @@ input[type="submit"]{
 input[type="submit"]:hover{
      background-color: white;  
     
-    /* #00b8eb */
+  
     color: #0098cb;
-    /* poner una mejor animacion */
+   
 }
 
 
 
 header {
-    /* border-bottom: 2px solid #eee;*/
+
     padding:20px;
     margin-bottom: 10px;
     width: 100%;
     text-align:center; 
-    /* width: 10em; */
     height: 5ex;
-    /* background-image: linear-gradient(135deg, #f62323 40%, #e8db27); */
     background-color:#0098cb;
-    /*border: none;*/
-   /* border-radius: 5px;*/
     font-weight: bold;
     color: white;
     cursor: pointer;
 }
 
 header a {
-    /*text-decoration: none;*/
     color: white; 
    
 }
@@ -72,7 +63,6 @@ header a {
 .container { 
     height: 200px;
     position: relative;
-    /* border: 3px solid green;  */
   }
   
   .center {
@@ -87,13 +77,11 @@ header a {
 
   #section-1 {
     background-image:
-    /* linear-gradient(to top,  #f34079 , #fc894d, #ecd3d3 ); */
     linear-gradient(to bottom, #ffffff 50%, #0098cb);
     width: 100%;
     height: 514px;
     background-size: cover;
     color: black;
-    
     padding: 20px;
 }
 
